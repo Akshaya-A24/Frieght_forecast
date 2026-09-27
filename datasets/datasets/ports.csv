@@ -1,0 +1,6 @@
+port,congestion_index,waiting_time_days,berth_availability
+Kolkata,0.73,6.2,3
+Haldia,0.71,2.4,3
+Paradip,0.41,6.5,1
+Visakhapatnam,0.18,3.4,3
+Chennai,0.35,4.0,2

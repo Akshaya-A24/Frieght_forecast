@@ -1,0 +1,976 @@
+date,origin,destination,commodity,freight_rate,vessel_type,cargo_quantity
+2024-01-01,Australia,Chennai,Iron Ore,28.78,Capesize,60248
+2024-01-02,South Africa,Kolkata,Iron Ore,24.6,Supramax,86712
+2024-01-03,Australia,Chennai,Fertilizer,24.3,Supramax,122661
+2024-01-04,Australia,Paradip,Iron Ore,24.01,Panamax,72882
+2024-01-05,South Africa,Visakhapatnam,Fertilizer,27.15,Supramax,72259
+2024-01-06,Australia,Chennai,Coal,25.94,Supramax,90405
+2024-01-07,Australia,Paradip,Fertilizer,26.17,Panamax,83342
+2024-01-08,South Africa,Paradip,Fertilizer,28.36,Capesize,148774
+2024-01-09,Indonesia,Paradip,Coal,19.48,Panamax,142886
+2024-01-10,Indonesia,Visakhapatnam,Coal,17.89,Panamax,68488
+2024-01-11,South Africa,Visakhapatnam,Iron Ore,26.29,Capesize,66970
+2024-01-12,South Africa,Visakhapatnam,Coal,23.74,Panamax,147326
+2024-01-13,South Africa,Visakhapatnam,Coal,26.2,Panamax,65159
+2024-01-14,Indonesia,Visakhapatnam,Iron Ore,22.4,Supramax,132831
+2024-01-15,Indonesia,Visakhapatnam,Coal,18.85,Panamax,66558
+2024-01-16,South Africa,Paradip,Fertilizer,23.85,Panamax,146353
+2024-01-17,Indonesia,Chennai,Coal,19.93,Supramax,111901
+2024-01-18,Australia,Chennai,Fertilizer,29.26,Panamax,142473
+2024-01-19,South Africa,Paradip,Coal,27.54,Panamax,115737
+2024-01-20,Australia,Visakhapatnam,Iron Ore,19.9,Capesize,89313
+2024-01-21,Australia,Paradip,Coal,22.61,Capesize,114487
+2024-01-22,South Africa,Haldia,Iron Ore,23.33,Supramax,111853
+2024-01-23,Indonesia,Haldia,Fertilizer,18.75,Panamax,148594
+2024-01-24,Indonesia,Haldia,Iron Ore,22.59,Capesize,69831
+2024-01-25,Indonesia,Haldia,Fertilizer,19.13,Panamax,91007
+2024-01-26,South Africa,Haldia,Iron Ore,25.27,Supramax,50472
+2024-01-27,Australia,Paradip,Fertilizer,24.44,Panamax,64687
+2024-01-28,South Africa,Visakhapatnam,Iron Ore,23.08,Capesize,52999
+2024-01-29,South Africa,Paradip,Iron Ore,28.64,Capesize,90337
+2024-01-30,South Africa,Kolkata,Coal,23.46,Capesize,105348
+2024-01-31,Indonesia,Visakhapatnam,Coal,20.78,Capesize,138525
+2024-02-01,Indonesia,Kolkata,Iron Ore,20.92,Supramax,87928
+2024-02-02,South Africa,Paradip,Coal,22.68,Panamax,141660
+2024-02-03,South Africa,Chennai,Coal,26.48,Capesize,71279
+2024-02-04,South Africa,Kolkata,Fertilizer,24.29,Panamax,118233
+2024-02-05,Australia,Paradip,Fertilizer,25.4,Capesize,78576
+2024-02-06,Australia,Paradip,Fertilizer,25.41,Supramax,135498
+2024-02-07,Australia,Paradip,Fertilizer,25.63,Supramax,83991
+2024-02-08,South Africa,Kolkata,Iron Ore,27.24,Panamax,65715
+2024-02-09,Indonesia,Paradip,Coal,17.51,Panamax,93567
+2024-02-10,Indonesia,Paradip,Iron Ore,18.92,Capesize,58658
+2024-02-11,Australia,Paradip,Fertilizer,24.09,Capesize,64130
+2024-02-12,Indonesia,Kolkata,Coal,16.48,Panamax,137833
+2024-02-13,South Africa,Visakhapatnam,Coal,21.45,Panamax,137967
+2024-02-14,South Africa,Paradip,Iron Ore,24.8,Panamax,67188
+2024-02-15,Australia,Kolkata,Iron Ore,26.99,Panamax,105224
+2024-02-16,Indonesia,Kolkata,Iron Ore,18.31,Panamax,53095
+2024-02-17,Indonesia,Paradip,Fertilizer,17.61,Capesize,78585
+2024-02-18,Indonesia,Haldia,Fertilizer,19.43,Supramax,103531
+2024-02-19,Australia,Chennai,Fertilizer,23.79,Capesize,119109
+2024-02-20,Australia,Haldia,Iron Ore,25.28,Capesize,61251
+2024-02-21,Indonesia,Kolkata,Iron Ore,21.08,Capesize,88556
+2024-02-22,Australia,Visakhapatnam,Iron Ore,27.18,Panamax,106173
+2024-02-23,Indonesia,Paradip,Fertilizer,19.24,Supramax,80552
+2024-02-24,Australia,Chennai,Coal,23.9,Supramax,89874
+2024-02-25,Australia,Visakhapatnam,Coal,26.41,Supramax,67182
+2024-02-26,South Africa,Haldia,Coal,30.45,Capesize,66403
+2024-02-27,South Africa,Haldia,Coal,23.8,Panamax,70104
+2024-02-28,Australia,Kolkata,Coal,26.4,Panamax,71291
+2024-02-29,Indonesia,Kolkata,Fertilizer,20.75,Capesize,143364
+2024-03-01,Australia,Visakhapatnam,Iron Ore,23.83,Panamax,136315
+2024-03-02,Indonesia,Paradip,Fertilizer,19.22,Supramax,147053
+2024-03-03,Australia,Visakhapatnam,Fertilizer,27.84,Supramax,65146
+2024-03-04,Australia,Kolkata,Coal,24.42,Panamax,103471
+2024-03-05,South Africa,Paradip,Iron Ore,22.66,Capesize,111444
+2024-03-06,Indonesia,Paradip,Coal,20.12,Capesize,126915
+2024-03-07,Australia,Visakhapatnam,Fertilizer,28.03,Capesize,144814
+2024-03-08,South Africa,Kolkata,Iron Ore,26.29,Supramax,87139
+2024-03-09,Australia,Paradip,Fertilizer,26.9,Capesize,126465
+2024-03-10,Australia,Kolkata,Fertilizer,23.5,Panamax,50154
+2024-03-11,Indonesia,Paradip,Coal,19.64,Panamax,118869
+2024-03-12,Australia,Kolkata,Fertilizer,28.72,Supramax,99209
+2024-03-13,South Africa,Haldia,Coal,23.35,Capesize,69241
+2024-03-14,Australia,Paradip,Coal,21.23,Supramax,71176
+2024-03-15,Australia,Visakhapatnam,Iron Ore,28.46,Capesize,95802
+2024-03-16,Australia,Kolkata,Coal,21.88,Capesize,104826
+2024-03-17,Australia,Visakhapatnam,Iron Ore,22.39,Capesize,86472
+2024-03-18,South Africa,Paradip,Fertilizer,23.26,Supramax,95381
+2024-03-19,South Africa,Paradip,Coal,26.42,Supramax,128522
+2024-03-20,Indonesia,Kolkata,Coal,19.36,Panamax,125329
+2024-03-21,South Africa,Chennai,Coal,23.89,Panamax,138497
+2024-03-22,Australia,Kolkata,Coal,26.25,Supramax,62359
+2024-03-23,South Africa,Visakhapatnam,Iron Ore,24.7,Supramax,116778
+2024-03-24,South Africa,Chennai,Coal,24.25,Supramax,92792
+2024-03-25,South Africa,Chennai,Coal,21.56,Supramax,111785
+2024-03-26,South Africa,Paradip,Coal,22.04,Supramax,126229
+2024-03-27,Indonesia,Haldia,Iron Ore,20.88,Supramax,77689
+2024-03-28,South Africa,Kolkata,Iron Ore,25.96,Supramax,53378
+2024-03-29,South Africa,Chennai,Fertilizer,27.27,Panamax,77210
+2024-03-30,Indonesia,Chennai,Coal,19.98,Capesize,92968
+2024-03-31,Australia,Paradip,Fertilizer,25.45,Panamax,147964
+2024-04-01,Australia,Paradip,Coal,23.75,Capesize,122525
+2024-04-02,Indonesia,Chennai,Iron Ore,18.36,Capesize,58399
+2024-04-03,Indonesia,Kolkata,Iron Ore,20.74,Panamax,96314
+2024-04-04,Indonesia,Haldia,Coal,20.85,Panamax,53384
+2024-04-05,Indonesia,Kolkata,Fertilizer,21.47,Panamax,100648
+2024-04-06,South Africa,Kolkata,Fertilizer,24.97,Capesize,126894
+2024-04-07,Indonesia,Paradip,Coal,19.51,Capesize,121750
+2024-04-08,Australia,Kolkata,Iron Ore,26.16,Panamax,125873
+2024-04-09,Indonesia,Paradip,Fertilizer,16.96,Supramax,51198
+2024-04-10,Australia,Chennai,Fertilizer,27.09,Supramax,125908
+2024-04-11,Indonesia,Chennai,Coal,18.27,Capesize,109955
+2024-04-12,South Africa,Visakhapatnam,Fertilizer,26.53,Supramax,65088
+2024-04-13,South Africa,Chennai,Fertilizer,27.22,Supramax,56804
+2024-04-14,Australia,Chennai,Coal,25.52,Capesize,132132
+2024-04-15,Australia,Haldia,Fertilizer,22.96,Supramax,85630
+2024-04-16,Indonesia,Visakhapatnam,Iron Ore,18.6,Capesize,81379
+2024-04-17,Australia,Chennai,Coal,24.36,Supramax,149777
+2024-04-18,Australia,Kolkata,Coal,24.05,Capesize,82072
+2024-04-19,Indonesia,Kolkata,Coal,18.84,Panamax,51559
+2024-04-20,Australia,Haldia,Fertilizer,24.41,Panamax,114541
+2024-04-21,Indonesia,Paradip,Coal,20.1,Panamax,63575
+2024-04-22,Australia,Paradip,Iron Ore,24.53,Capesize,72691
+2024-04-23,South Africa,Haldia,Coal,23.38,Panamax,139923
+2024-04-24,Indonesia,Chennai,Iron Ore,21.78,Panamax,111091
+2024-04-25,Indonesia,Chennai,Iron Ore,19.49,Capesize,66390
+2024-04-26,Australia,Kolkata,Coal,25.81,Panamax,110975
+2024-04-27,Australia,Haldia,Fertilizer,25.93,Supramax,125118
+2024-04-28,South Africa,Kolkata,Fertilizer,26.07,Capesize,146360
+2024-04-29,Australia,Visakhapatnam,Fertilizer,26.59,Supramax,137727
+2024-04-30,South Africa,Kolkata,Iron Ore,23.19,Panamax,117284
+2024-05-01,Indonesia,Kolkata,Iron Ore,22.05,Panamax,129319
+2024-05-02,South Africa,Haldia,Iron Ore,23.83,Supramax,128121
+2024-05-03,Indonesia,Kolkata,Iron Ore,19.65,Supramax,139957
+2024-05-04,Australia,Paradip,Iron Ore,28.99,Capesize,80277
+2024-05-05,Indonesia,Haldia,Coal,17.51,Supramax,127254
+2024-05-06,Indonesia,Kolkata,Coal,19.85,Supramax,60364
+2024-05-07,Indonesia,Chennai,Iron Ore,16.34,Panamax,72415
+2024-05-08,Indonesia,Haldia,Coal,17.06,Panamax,96929
+2024-05-09,Australia,Kolkata,Iron Ore,22.64,Supramax,107915
+2024-05-10,Australia,Paradip,Fertilizer,22.88,Capesize,105566
+2024-05-11,South Africa,Chennai,Iron Ore,25.45,Capesize,123521
+2024-05-12,Australia,Chennai,Fertilizer,25.95,Supramax,77778
+2024-05-13,Indonesia,Haldia,Coal,14.98,Capesize,62633
+2024-05-14,Indonesia,Chennai,Iron Ore,19.93,Panamax,133754
+2024-05-15,South Africa,Chennai,Iron Ore,25.33,Capesize,136619
+2024-05-16,Indonesia,Visakhapatnam,Iron Ore,20.66,Capesize,50345
+2024-05-17,Indonesia,Paradip,Coal,21.11,Panamax,104611
+2024-05-18,South Africa,Chennai,Iron Ore,25.71,Panamax,128830
+2024-05-19,South Africa,Haldia,Coal,23.09,Panamax,108148
+2024-05-20,South Africa,Visakhapatnam,Coal,27.44,Panamax,106623
+2024-05-21,Indonesia,Chennai,Coal,19.72,Supramax,100594
+2024-05-22,South Africa,Kolkata,Fertilizer,23.05,Supramax,109339
+2024-05-23,South Africa,Chennai,Iron Ore,26.42,Supramax,86762
+2024-05-24,South Africa,Paradip,Iron Ore,28.02,Supramax,67200
+2024-05-25,Australia,Chennai,Coal,26.15,Capesize,125058
+2024-05-26,Australia,Paradip,Fertilizer,26.19,Capesize,139347
+2024-05-27,South Africa,Paradip,Fertilizer,25.54,Capesize,125055
+2024-05-28,Australia,Haldia,Iron Ore,28.83,Capesize,50476
+2024-05-29,South Africa,Paradip,Coal,25.54,Panamax,68546
+2024-05-30,Indonesia,Paradip,Coal,20.49,Panamax,51339
+2024-05-31,South Africa,Chennai,Fertilizer,25.42,Panamax,82928
+2024-06-01,Indonesia,Haldia,Fertilizer,21.42,Capesize,126563
+2024-06-02,Indonesia,Haldia,Coal,20.04,Panamax,95837
+2024-06-03,Indonesia,Kolkata,Coal,21.3,Capesize,62297
+2024-06-04,Australia,Haldia,Fertilizer,26.52,Supramax,127328
+2024-06-05,Australia,Haldia,Iron Ore,25.05,Supramax,90954
+2024-06-06,South Africa,Kolkata,Coal,21.62,Supramax,59882
+2024-06-07,Indonesia,Haldia,Iron Ore,19.91,Supramax,59754
+2024-06-08,Indonesia,Visakhapatnam,Coal,19.94,Supramax,99900
+2024-06-09,Indonesia,Haldia,Fertilizer,17.74,Panamax,141056
+2024-06-10,Indonesia,Haldia,Coal,18.62,Supramax,77399
+2024-06-11,Australia,Haldia,Coal,27.49,Capesize,109870
+2024-06-12,Australia,Chennai,Iron Ore,24.96,Panamax,65499
+2024-06-13,Indonesia,Kolkata,Coal,20.45,Panamax,70164
+2024-06-14,Australia,Chennai,Iron Ore,25.03,Capesize,117886
+2024-06-15,Indonesia,Chennai,Fertilizer,17.45,Panamax,134707
+2024-06-16,South Africa,Kolkata,Coal,29.23,Supramax,74743
+2024-06-17,Australia,Kolkata,Coal,27.76,Capesize,98214
+2024-06-18,Indonesia,Haldia,Iron Ore,20.03,Panamax,143940
+2024-06-19,Australia,Paradip,Iron Ore,23.36,Supramax,105816
+2024-06-20,South Africa,Visakhapatnam,Coal,22.2,Capesize,135229
+2024-06-21,South Africa,Haldia,Fertilizer,27.38,Capesize,104712
+2024-06-22,Indonesia,Haldia,Coal,23.05,Capesize,73046
+2024-06-23,South Africa,Paradip,Iron Ore,21.78,Capesize,67350
+2024-06-24,Australia,Visakhapatnam,Iron Ore,24.95,Supramax,122341
+2024-06-25,Australia,Kolkata,Iron Ore,25.44,Capesize,57742
+2024-06-26,South Africa,Haldia,Coal,23.05,Panamax,88964
+2024-06-27,Australia,Paradip,Iron Ore,27.33,Panamax,107045
+2024-06-28,Indonesia,Paradip,Iron Ore,16.82,Panamax,118571
+2024-06-29,Australia,Chennai,Fertilizer,29.55,Supramax,88591
+2024-06-30,South Africa,Kolkata,Fertilizer,23.86,Supramax,135188
+2024-07-01,South Africa,Visakhapatnam,Iron Ore,24.26,Capesize,130023
+2024-07-02,Indonesia,Haldia,Coal,22.82,Capesize,89679
+2024-07-03,Indonesia,Haldia,Fertilizer,19.68,Supramax,68425
+2024-07-04,Australia,Chennai,Coal,25.57,Capesize,118948
+2024-07-05,South Africa,Paradip,Fertilizer,27.23,Supramax,60191
+2024-07-06,Indonesia,Haldia,Coal,20.43,Panamax,142289
+2024-07-07,Australia,Paradip,Coal,23.44,Capesize,82662
+2024-07-08,Indonesia,Haldia,Iron Ore,16.54,Supramax,147139
+2024-07-09,South Africa,Visakhapatnam,Iron Ore,23.84,Capesize,73676
+2024-07-10,South Africa,Visakhapatnam,Coal,24.98,Supramax,123114
+2024-07-11,Indonesia,Paradip,Fertilizer,16.97,Supramax,113952
+2024-07-12,South Africa,Paradip,Iron Ore,26.76,Panamax,149407
+2024-07-13,Indonesia,Haldia,Coal,19.77,Supramax,100776
+2024-07-14,Australia,Visakhapatnam,Fertilizer,25.79,Supramax,51121
+2024-07-15,Australia,Paradip,Iron Ore,27.78,Panamax,124702
+2024-07-16,Indonesia,Visakhapatnam,Iron Ore,20.49,Supramax,80210
+2024-07-17,Indonesia,Haldia,Coal,15.77,Capesize,65240
+2024-07-18,South Africa,Chennai,Iron Ore,23.96,Supramax,141581
+2024-07-19,South Africa,Kolkata,Coal,24.39,Capesize,146121
+2024-07-20,South Africa,Visakhapatnam,Fertilizer,24.81,Supramax,74059
+2024-07-21,South Africa,Paradip,Fertilizer,28.22,Supramax,61215
+2024-07-22,South Africa,Paradip,Fertilizer,22.21,Capesize,53695
+2024-07-23,South Africa,Visakhapatnam,Iron Ore,25.99,Capesize,127273
+2024-07-24,South Africa,Chennai,Iron Ore,23.34,Capesize,106896
+2024-07-25,South Africa,Haldia,Coal,24.94,Supramax,136710
+2024-07-26,Indonesia,Kolkata,Iron Ore,15.32,Capesize,133912
+2024-07-27,South Africa,Visakhapatnam,Iron Ore,23.09,Supramax,127076
+2024-07-28,Australia,Kolkata,Coal,23.76,Panamax,109819
+2024-07-29,Australia,Chennai,Coal,28.27,Capesize,136830
+2024-07-30,Indonesia,Paradip,Coal,19.25,Supramax,97514
+2024-07-31,Australia,Visakhapatnam,Iron Ore,19.0,Panamax,126030
+2024-08-01,Australia,Chennai,Coal,26.32,Capesize,117769
+2024-08-02,Indonesia,Paradip,Coal,21.8,Supramax,138846
+2024-08-03,Indonesia,Chennai,Iron Ore,18.2,Capesize,131129
+2024-08-04,Australia,Haldia,Fertilizer,27.08,Panamax,71807
+2024-08-05,Indonesia,Paradip,Fertilizer,21.5,Capesize,147227
+2024-08-06,Australia,Chennai,Coal,26.32,Capesize,80274
+2024-08-07,Indonesia,Chennai,Coal,19.05,Capesize,61699
+2024-08-08,Indonesia,Visakhapatnam,Fertilizer,22.59,Panamax,116301
+2024-08-09,South Africa,Haldia,Fertilizer,25.57,Supramax,58291
+2024-08-10,Australia,Paradip,Iron Ore,23.7,Panamax,125538
+2024-08-11,Indonesia,Paradip,Fertilizer,21.12,Capesize,118729
+2024-08-12,Australia,Kolkata,Iron Ore,21.62,Supramax,66477
+2024-08-13,Australia,Paradip,Fertilizer,23.06,Capesize,139807
+2024-08-14,South Africa,Kolkata,Coal,23.64,Capesize,98483
+2024-08-15,Australia,Haldia,Iron Ore,26.75,Panamax,91702
+2024-08-16,Indonesia,Kolkata,Fertilizer,19.19,Supramax,90408
+2024-08-17,Australia,Paradip,Fertilizer,28.09,Capesize,146438
+2024-08-18,Australia,Chennai,Coal,26.15,Capesize,116814
+2024-08-19,Indonesia,Haldia,Iron Ore,20.93,Panamax,94420
+2024-08-20,Australia,Haldia,Iron Ore,23.81,Panamax,139103
+2024-08-21,South Africa,Visakhapatnam,Fertilizer,23.42,Supramax,110951
+2024-08-22,Indonesia,Kolkata,Coal,13.98,Supramax,77643
+2024-08-23,Indonesia,Paradip,Iron Ore,22.05,Capesize,85305
+2024-08-24,Australia,Haldia,Iron Ore,28.27,Capesize,55132
+2024-08-25,Indonesia,Haldia,Iron Ore,16.84,Panamax,140092
+2024-08-26,Australia,Visakhapatnam,Iron Ore,24.54,Supramax,113847
+2024-08-27,South Africa,Paradip,Coal,23.88,Supramax,113969
+2024-08-28,South Africa,Haldia,Fertilizer,27.18,Panamax,86210
+2024-08-29,Indonesia,Chennai,Coal,19.64,Panamax,136092
+2024-08-30,Australia,Haldia,Iron Ore,23.69,Panamax,133760
+2024-08-31,South Africa,Kolkata,Coal,25.98,Capesize,108909
+2024-09-01,South Africa,Kolkata,Iron Ore,23.11,Supramax,137287
+2024-09-02,South Africa,Haldia,Iron Ore,24.68,Capesize,127304
+2024-09-03,South Africa,Paradip,Coal,24.82,Capesize,71803
+2024-09-04,Indonesia,Kolkata,Coal,20.43,Supramax,89190
+2024-09-05,South Africa,Paradip,Fertilizer,26.45,Supramax,118699
+2024-09-06,South Africa,Haldia,Coal,24.74,Panamax,87498
+2024-09-07,Indonesia,Haldia,Coal,19.09,Capesize,82450
+2024-09-08,Australia,Kolkata,Coal,26.56,Capesize,102814
+2024-09-09,Indonesia,Chennai,Iron Ore,20.63,Panamax,101584
+2024-09-10,Indonesia,Chennai,Coal,19.13,Supramax,119391
+2024-09-11,Indonesia,Chennai,Coal,20.05,Capesize,145607
+2024-09-12,Indonesia,Haldia,Fertilizer,22.58,Supramax,112497
+2024-09-13,Australia,Haldia,Fertilizer,27.58,Supramax,99289
+2024-09-14,South Africa,Chennai,Coal,27.16,Supramax,106130
+2024-09-15,Australia,Paradip,Iron Ore,25.86,Capesize,51258
+2024-09-16,South Africa,Visakhapatnam,Iron Ore,24.31,Panamax,67299
+2024-09-17,Australia,Chennai,Iron Ore,25.61,Panamax,89606
+2024-09-18,South Africa,Chennai,Iron Ore,23.66,Panamax,99628
+2024-09-19,Australia,Visakhapatnam,Fertilizer,23.18,Capesize,101438
+2024-09-20,Australia,Chennai,Fertilizer,22.93,Supramax,73906
+2024-09-21,Indonesia,Paradip,Coal,20.78,Capesize,58494
+2024-09-22,Indonesia,Paradip,Iron Ore,19.85,Supramax,50689
+2024-09-23,Australia,Haldia,Coal,22.4,Capesize,104459
+2024-09-24,Indonesia,Haldia,Iron Ore,18.84,Panamax,92139
+2024-09-25,Australia,Chennai,Fertilizer,22.46,Panamax,113888
+2024-09-26,South Africa,Haldia,Fertilizer,28.13,Panamax,63871
+2024-09-27,Indonesia,Visakhapatnam,Iron Ore,18.36,Capesize,97007
+2024-09-28,South Africa,Haldia,Fertilizer,24.85,Supramax,99710
+2024-09-29,Australia,Kolkata,Fertilizer,25.02,Capesize,64417
+2024-09-30,Australia,Paradip,Iron Ore,25.32,Panamax,105087
+2024-10-01,South Africa,Paradip,Iron Ore,27.31,Supramax,87762
+2024-10-02,South Africa,Paradip,Coal,26.1,Supramax,112342
+2024-10-03,South Africa,Paradip,Iron Ore,22.61,Capesize,114573
+2024-10-04,South Africa,Chennai,Coal,26.36,Panamax,104471
+2024-10-05,Indonesia,Visakhapatnam,Coal,20.77,Supramax,144407
+2024-10-06,Indonesia,Haldia,Fertilizer,20.54,Supramax,111940
+2024-10-07,Indonesia,Paradip,Iron Ore,22.49,Capesize,60785
+2024-10-08,Indonesia,Visakhapatnam,Coal,18.59,Capesize,103344
+2024-10-09,Indonesia,Paradip,Iron Ore,18.19,Capesize,135922
+2024-10-10,Indonesia,Visakhapatnam,Coal,17.59,Capesize,78186
+2024-10-11,Australia,Paradip,Iron Ore,24.96,Capesize,91580
+2024-10-12,Indonesia,Kolkata,Iron Ore,23.45,Panamax,111309
+2024-10-13,Australia,Paradip,Coal,19.73,Supramax,52406
+2024-10-14,Australia,Visakhapatnam,Fertilizer,24.01,Capesize,52470
+2024-10-15,Australia,Kolkata,Iron Ore,25.83,Panamax,130778
+2024-10-16,Indonesia,Visakhapatnam,Fertilizer,19.58,Supramax,96685
+2024-10-17,South Africa,Chennai,Fertilizer,22.63,Capesize,133149
+2024-10-18,Indonesia,Paradip,Fertilizer,18.98,Supramax,140995
+2024-10-19,Indonesia,Paradip,Fertilizer,18.98,Capesize,85311
+2024-10-20,South Africa,Visakhapatnam,Coal,21.33,Panamax,85674
+2024-10-21,South Africa,Paradip,Fertilizer,25.9,Supramax,107339
+2024-10-22,South Africa,Visakhapatnam,Fertilizer,24.88,Capesize,64559
+2024-10-23,Australia,Chennai,Iron Ore,20.28,Capesize,114506
+2024-10-24,Australia,Haldia,Fertilizer,24.5,Supramax,148400
+2024-10-25,South Africa,Kolkata,Fertilizer,22.1,Supramax,102054
+2024-10-26,South Africa,Chennai,Coal,29.28,Supramax,61299
+2024-10-27,Indonesia,Haldia,Iron Ore,20.22,Capesize,129961
+2024-10-28,Australia,Kolkata,Iron Ore,28.0,Panamax,125875
+2024-10-29,South Africa,Kolkata,Fertilizer,23.63,Supramax,144330
+2024-10-30,Indonesia,Paradip,Fertilizer,23.71,Supramax,57437
+2024-10-31,Australia,Haldia,Fertilizer,24.46,Panamax,62969
+2024-11-01,Australia,Kolkata,Fertilizer,23.8,Capesize,116036
+2024-11-02,Australia,Kolkata,Iron Ore,27.11,Panamax,142723
+2024-11-03,South Africa,Kolkata,Fertilizer,21.36,Supramax,83363
+2024-11-04,Australia,Paradip,Coal,27.32,Supramax,113268
+2024-11-05,Indonesia,Haldia,Coal,22.42,Panamax,144029
+2024-11-06,Indonesia,Chennai,Coal,15.03,Panamax,135771
+2024-11-07,Australia,Kolkata,Iron Ore,21.86,Capesize,60890
+2024-11-08,South Africa,Chennai,Fertilizer,23.87,Panamax,72564
+2024-11-09,South Africa,Kolkata,Coal,23.34,Supramax,131300
+2024-11-10,Indonesia,Kolkata,Coal,17.62,Panamax,67747
+2024-11-11,Australia,Kolkata,Coal,20.92,Supramax,121106
+2024-11-12,Indonesia,Visakhapatnam,Iron Ore,19.61,Supramax,140128
+2024-11-13,Indonesia,Visakhapatnam,Iron Ore,19.77,Capesize,136962
+2024-11-14,Australia,Paradip,Iron Ore,23.85,Supramax,101491
+2024-11-15,South Africa,Haldia,Iron Ore,26.18,Capesize,109664
+2024-11-16,Australia,Chennai,Iron Ore,19.81,Panamax,141681
+2024-11-17,Australia,Chennai,Iron Ore,22.73,Capesize,64205
+2024-11-18,South Africa,Paradip,Fertilizer,24.62,Capesize,116600
+2024-11-19,South Africa,Visakhapatnam,Coal,24.22,Supramax,108449
+2024-11-20,Indonesia,Visakhapatnam,Fertilizer,21.77,Supramax,88903
+2024-11-21,Indonesia,Paradip,Iron Ore,15.37,Supramax,103611
+2024-11-22,Australia,Haldia,Iron Ore,25.23,Panamax,71799
+2024-11-23,South Africa,Visakhapatnam,Iron Ore,25.96,Capesize,108874
+2024-11-24,Australia,Paradip,Fertilizer,22.54,Capesize,134440
+2024-11-25,Indonesia,Kolkata,Iron Ore,20.55,Panamax,58918
+2024-11-26,Indonesia,Visakhapatnam,Coal,20.43,Supramax,57921
+2024-11-27,Indonesia,Chennai,Iron Ore,20.28,Capesize,73322
+2024-11-28,South Africa,Kolkata,Fertilizer,24.38,Panamax,136264
+2024-11-29,Australia,Visakhapatnam,Iron Ore,23.85,Supramax,52053
+2024-11-30,Australia,Visakhapatnam,Coal,22.69,Supramax,102388
+2024-12-01,South Africa,Kolkata,Iron Ore,25.35,Supramax,72736
+2024-12-02,Indonesia,Kolkata,Iron Ore,19.96,Supramax,83049
+2024-12-03,Australia,Paradip,Coal,27.43,Supramax,148450
+2024-12-04,Indonesia,Haldia,Iron Ore,17.92,Panamax,129924
+2024-12-05,Australia,Haldia,Coal,23.21,Capesize,122875
+2024-12-06,Australia,Paradip,Iron Ore,26.77,Panamax,143366
+2024-12-07,South Africa,Paradip,Coal,22.75,Panamax,63820
+2024-12-08,South Africa,Visakhapatnam,Fertilizer,22.64,Panamax,70420
+2024-12-09,Indonesia,Paradip,Iron Ore,17.98,Panamax,72422
+2024-12-10,South Africa,Chennai,Iron Ore,25.4,Panamax,123284
+2024-12-11,South Africa,Kolkata,Coal,27.08,Panamax,149557
+2024-12-12,Australia,Kolkata,Iron Ore,24.51,Supramax,94532
+2024-12-13,Australia,Haldia,Coal,20.91,Supramax,146965
+2024-12-14,Australia,Chennai,Coal,27.84,Supramax,122385
+2024-12-15,Australia,Visakhapatnam,Fertilizer,26.98,Capesize,84804
+2024-12-16,South Africa,Paradip,Iron Ore,25.72,Supramax,132745
+2024-12-17,Australia,Paradip,Iron Ore,29.79,Capesize,75124
+2024-12-18,South Africa,Visakhapatnam,Fertilizer,26.85,Capesize,141215
+2024-12-19,Indonesia,Visakhapatnam,Iron Ore,18.94,Supramax,56422
+2024-12-20,Australia,Kolkata,Coal,25.17,Panamax,114621
+2024-12-21,South Africa,Chennai,Fertilizer,24.59,Panamax,148207
+2024-12-22,South Africa,Chennai,Coal,23.51,Supramax,118179
+2024-12-23,Australia,Haldia,Fertilizer,29.87,Panamax,145246
+2024-12-24,Australia,Paradip,Coal,23.59,Supramax,59810
+2024-12-25,Australia,Chennai,Iron Ore,22.38,Capesize,104260
+2024-12-26,Australia,Paradip,Coal,22.57,Supramax,129418
+2024-12-27,Australia,Visakhapatnam,Iron Ore,23.7,Panamax,112371
+2024-12-28,South Africa,Chennai,Coal,26.54,Panamax,67968
+2024-12-29,Australia,Kolkata,Fertilizer,26.88,Capesize,84045
+2024-12-30,Indonesia,Haldia,Iron Ore,21.32,Capesize,144911
+2024-12-31,Indonesia,Kolkata,Iron Ore,19.88,Capesize,134110
+2025-01-01,Indonesia,Kolkata,Fertilizer,16.7,Supramax,112749
+2025-01-02,Indonesia,Haldia,Iron Ore,20.27,Capesize,62573
+2025-01-03,Indonesia,Visakhapatnam,Iron Ore,16.85,Supramax,80431
+2025-01-04,Indonesia,Haldia,Coal,20.52,Supramax,117350
+2025-01-05,Australia,Visakhapatnam,Coal,25.97,Capesize,73928
+2025-01-06,South Africa,Kolkata,Coal,21.08,Panamax,139816
+2025-01-07,Indonesia,Paradip,Fertilizer,20.09,Supramax,92653
+2025-01-08,Australia,Kolkata,Coal,25.22,Supramax,96658
+2025-01-09,Indonesia,Haldia,Fertilizer,17.97,Panamax,133636
+2025-01-10,Australia,Visakhapatnam,Iron Ore,24.75,Capesize,82607
+2025-01-11,Australia,Kolkata,Coal,27.41,Supramax,119383
+2025-01-12,Indonesia,Haldia,Fertilizer,23.38,Panamax,55564
+2025-01-13,Indonesia,Paradip,Iron Ore,21.9,Supramax,135063
+2025-01-14,South Africa,Paradip,Fertilizer,23.03,Panamax,129087
+2025-01-15,Indonesia,Chennai,Iron Ore,20.72,Capesize,149251
+2025-01-16,Australia,Kolkata,Fertilizer,23.49,Supramax,125254
+2025-01-17,Indonesia,Visakhapatnam,Iron Ore,19.09,Capesize,131404
+2025-01-18,Australia,Paradip,Coal,25.03,Capesize,58664
+2025-01-19,Indonesia,Chennai,Fertilizer,22.63,Capesize,135857
+2025-01-20,South Africa,Paradip,Fertilizer,21.73,Capesize,139405
+2025-01-21,Australia,Kolkata,Coal,24.01,Panamax,147646
+2025-01-22,Australia,Visakhapatnam,Coal,25.97,Supramax,127663
+2025-01-23,Australia,Chennai,Fertilizer,24.86,Panamax,114504
+2025-01-24,South Africa,Visakhapatnam,Iron Ore,24.48,Capesize,65896
+2025-01-25,Indonesia,Paradip,Fertilizer,22.17,Supramax,66224
+2025-01-26,South Africa,Kolkata,Fertilizer,20.33,Panamax,93185
+2025-01-27,South Africa,Chennai,Iron Ore,28.44,Panamax,134452
+2025-01-28,South Africa,Chennai,Fertilizer,27.7,Supramax,133879
+2025-01-29,Indonesia,Paradip,Fertilizer,19.67,Panamax,119891
+2025-01-30,Indonesia,Paradip,Iron Ore,24.28,Panamax,104152
+2025-01-31,South Africa,Chennai,Fertilizer,26.12,Panamax,54666
+2025-02-01,South Africa,Kolkata,Coal,24.49,Supramax,140449
+2025-02-02,South Africa,Paradip,Coal,24.92,Panamax,64759
+2025-02-03,South Africa,Haldia,Iron Ore,22.96,Panamax,69368
+2025-02-04,Australia,Haldia,Coal,25.29,Supramax,143872
+2025-02-05,South Africa,Kolkata,Coal,23.04,Panamax,59223
+2025-02-06,South Africa,Kolkata,Iron Ore,18.99,Supramax,58382
+2025-02-07,South Africa,Kolkata,Fertilizer,22.29,Supramax,119608
+2025-02-08,Australia,Kolkata,Fertilizer,23.68,Supramax,98577
+2025-02-09,Indonesia,Kolkata,Fertilizer,17.58,Supramax,137004
+2025-02-10,Indonesia,Visakhapatnam,Coal,22.88,Supramax,63832
+2025-02-11,South Africa,Haldia,Iron Ore,30.68,Supramax,56798
+2025-02-12,Australia,Visakhapatnam,Coal,24.97,Capesize,141590
+2025-02-13,South Africa,Paradip,Coal,27.1,Supramax,95505
+2025-02-14,South Africa,Kolkata,Coal,21.75,Supramax,98354
+2025-02-15,Indonesia,Chennai,Fertilizer,20.41,Supramax,102494
+2025-02-16,South Africa,Visakhapatnam,Fertilizer,23.81,Capesize,130000
+2025-02-17,South Africa,Haldia,Iron Ore,26.41,Supramax,137949
+2025-02-18,Indonesia,Kolkata,Coal,19.43,Panamax,80255
+2025-02-19,Australia,Paradip,Fertilizer,24.31,Panamax,83389
+2025-02-20,Australia,Kolkata,Coal,24.02,Capesize,77654
+2025-02-21,Australia,Haldia,Coal,26.7,Supramax,78310
+2025-02-22,Indonesia,Paradip,Iron Ore,20.05,Supramax,144471
+2025-02-23,Indonesia,Visakhapatnam,Fertilizer,17.63,Capesize,127997
+2025-02-24,Indonesia,Visakhapatnam,Coal,20.39,Supramax,123019
+2025-02-25,Australia,Visakhapatnam,Iron Ore,25.06,Supramax,89543
+2025-02-26,South Africa,Paradip,Fertilizer,25.48,Supramax,75574
+2025-02-27,Indonesia,Chennai,Fertilizer,21.22,Supramax,54548
+2025-02-28,South Africa,Kolkata,Fertilizer,24.14,Capesize,68125
+2025-03-01,Australia,Paradip,Iron Ore,20.82,Capesize,55431
+2025-03-02,Australia,Paradip,Iron Ore,23.47,Capesize,100768
+2025-03-03,Australia,Paradip,Fertilizer,25.64,Panamax,65206
+2025-03-04,South Africa,Visakhapatnam,Iron Ore,22.33,Panamax,129844
+2025-03-05,South Africa,Visakhapatnam,Fertilizer,27.5,Panamax,105457
+2025-03-06,Indonesia,Kolkata,Coal,19.32,Capesize,138482
+2025-03-07,Australia,Kolkata,Fertilizer,23.4,Capesize,105467
+2025-03-08,South Africa,Chennai,Coal,23.09,Capesize,71098
+2025-03-09,Australia,Paradip,Fertilizer,22.48,Supramax,99723
+2025-03-10,Australia,Chennai,Coal,25.72,Capesize,111945
+2025-03-11,Indonesia,Haldia,Fertilizer,21.98,Supramax,64399
+2025-03-12,South Africa,Kolkata,Iron Ore,27.02,Supramax,138227
+2025-03-13,Indonesia,Chennai,Iron Ore,17.94,Panamax,130723
+2025-03-14,Australia,Visakhapatnam,Coal,25.09,Capesize,94825
+2025-03-15,Indonesia,Chennai,Fertilizer,18.56,Capesize,63162
+2025-03-16,Australia,Kolkata,Coal,23.36,Capesize,100116
+2025-03-17,Indonesia,Paradip,Coal,19.82,Supramax,57622
+2025-03-18,Indonesia,Haldia,Iron Ore,24.46,Capesize,61802
+2025-03-19,Indonesia,Chennai,Iron Ore,18.1,Capesize,51591
+2025-03-20,Australia,Haldia,Iron Ore,26.23,Capesize,106606
+2025-03-21,Australia,Haldia,Fertilizer,24.92,Supramax,136367
+2025-03-22,South Africa,Paradip,Coal,23.99,Panamax,74806
+2025-03-23,Indonesia,Chennai,Fertilizer,20.7,Capesize,143384
+2025-03-24,South Africa,Haldia,Fertilizer,28.38,Capesize,52357
+2025-03-25,Australia,Chennai,Coal,26.0,Supramax,118211
+2025-03-26,South Africa,Chennai,Coal,28.01,Supramax,61162
+2025-03-27,Australia,Paradip,Coal,26.07,Supramax,86966
+2025-03-28,Australia,Kolkata,Iron Ore,24.35,Supramax,125779
+2025-03-29,Australia,Paradip,Iron Ore,23.48,Panamax,105207
+2025-03-30,South Africa,Kolkata,Iron Ore,24.45,Capesize,56234
+2025-03-31,Australia,Kolkata,Iron Ore,24.38,Supramax,129999
+2025-04-01,South Africa,Visakhapatnam,Iron Ore,28.39,Capesize,73893
+2025-04-02,Indonesia,Kolkata,Coal,17.17,Supramax,146780
+2025-04-03,Australia,Paradip,Fertilizer,28.5,Supramax,117952
+2025-04-04,South Africa,Visakhapatnam,Fertilizer,27.5,Supramax,100239
+2025-04-05,Indonesia,Visakhapatnam,Iron Ore,19.74,Panamax,109865
+2025-04-06,South Africa,Visakhapatnam,Iron Ore,22.6,Capesize,131923
+2025-04-07,Indonesia,Haldia,Fertilizer,19.14,Panamax,90147
+2025-04-08,Indonesia,Haldia,Iron Ore,13.29,Supramax,125661
+2025-04-09,Indonesia,Visakhapatnam,Coal,17.96,Capesize,109405
+2025-04-10,South Africa,Visakhapatnam,Iron Ore,23.77,Panamax,72529
+2025-04-11,Australia,Paradip,Coal,24.96,Supramax,105898
+2025-04-12,South Africa,Visakhapatnam,Fertilizer,26.38,Supramax,132617
+2025-04-13,Indonesia,Paradip,Iron Ore,17.45,Panamax,92874
+2025-04-14,Australia,Haldia,Iron Ore,22.85,Capesize,76531
+2025-04-15,Indonesia,Visakhapatnam,Coal,19.55,Panamax,105143
+2025-04-16,Indonesia,Haldia,Coal,19.92,Panamax,128689
+2025-04-17,Australia,Kolkata,Coal,24.48,Panamax,91125
+2025-04-18,Australia,Haldia,Iron Ore,24.54,Capesize,131712
+2025-04-19,Australia,Visakhapatnam,Fertilizer,24.17,Panamax,100391
+2025-04-20,Australia,Visakhapatnam,Iron Ore,22.38,Capesize,113917
+2025-04-21,South Africa,Paradip,Iron Ore,22.06,Capesize,129339
+2025-04-22,Australia,Haldia,Iron Ore,22.48,Supramax,89469
+2025-04-23,Indonesia,Paradip,Coal,22.77,Supramax,59522
+2025-04-24,Indonesia,Paradip,Fertilizer,18.67,Panamax,55382
+2025-04-25,South Africa,Kolkata,Iron Ore,27.42,Panamax,103042
+2025-04-26,South Africa,Haldia,Coal,26.98,Panamax,93049
+2025-04-27,Indonesia,Haldia,Fertilizer,15.98,Capesize,78312
+2025-04-28,Australia,Kolkata,Fertilizer,23.35,Supramax,114468
+2025-04-29,Australia,Chennai,Fertilizer,25.13,Panamax,104506
+2025-04-30,Indonesia,Chennai,Coal,17.95,Supramax,57161
+2025-05-01,Indonesia,Haldia,Iron Ore,21.15,Panamax,82944
+2025-05-02,South Africa,Visakhapatnam,Coal,23.26,Supramax,132167
+2025-05-03,Indonesia,Visakhapatnam,Iron Ore,22.13,Supramax,57882
+2025-05-04,Australia,Haldia,Iron Ore,26.11,Capesize,76005
+2025-05-05,South Africa,Visakhapatnam,Iron Ore,26.03,Supramax,141056
+2025-05-06,Australia,Haldia,Iron Ore,21.01,Capesize,148665
+2025-05-07,South Africa,Paradip,Fertilizer,22.95,Panamax,97735
+2025-05-08,Australia,Visakhapatnam,Iron Ore,25.72,Panamax,53979
+2025-05-09,South Africa,Chennai,Fertilizer,24.31,Supramax,132414
+2025-05-10,South Africa,Chennai,Fertilizer,25.55,Capesize,61566
+2025-05-11,Indonesia,Visakhapatnam,Iron Ore,19.96,Supramax,140864
+2025-05-12,Australia,Kolkata,Coal,25.2,Supramax,126313
+2025-05-13,Indonesia,Paradip,Iron Ore,22.19,Capesize,89797
+2025-05-14,South Africa,Visakhapatnam,Iron Ore,26.49,Supramax,96436
+2025-05-15,Indonesia,Chennai,Coal,19.33,Supramax,52832
+2025-05-16,South Africa,Kolkata,Coal,23.79,Panamax,51039
+2025-05-17,Australia,Haldia,Iron Ore,30.2,Capesize,82431
+2025-05-18,Australia,Paradip,Coal,28.49,Capesize,84970
+2025-05-19,Indonesia,Haldia,Coal,21.28,Panamax,132060
+2025-05-20,South Africa,Kolkata,Coal,24.16,Panamax,74053
+2025-05-21,Australia,Haldia,Fertilizer,25.5,Panamax,96635
+2025-05-22,Indonesia,Paradip,Coal,18.96,Supramax,131348
+2025-05-23,Australia,Kolkata,Fertilizer,27.64,Panamax,132866
+2025-05-24,Australia,Kolkata,Fertilizer,24.69,Supramax,109041
+2025-05-25,South Africa,Paradip,Fertilizer,26.06,Panamax,55161
+2025-05-26,Indonesia,Paradip,Fertilizer,17.71,Capesize,110121
+2025-05-27,Indonesia,Kolkata,Coal,19.59,Supramax,109595
+2025-05-28,Australia,Visakhapatnam,Iron Ore,19.1,Panamax,91680
+2025-05-29,Indonesia,Haldia,Iron Ore,22.29,Supramax,98958
+2025-05-30,Indonesia,Paradip,Fertilizer,21.32,Supramax,108361
+2025-05-31,Indonesia,Paradip,Fertilizer,19.52,Supramax,126818
+2025-06-01,Australia,Haldia,Fertilizer,26.61,Panamax,51736
+2025-06-02,South Africa,Haldia,Iron Ore,21.27,Panamax,60487
+2025-06-03,South Africa,Paradip,Iron Ore,26.44,Panamax,138871
+2025-06-04,Indonesia,Paradip,Coal,20.89,Supramax,75407
+2025-06-05,Australia,Kolkata,Coal,23.1,Capesize,116914
+2025-06-06,Australia,Kolkata,Coal,22.04,Supramax,131358
+2025-06-07,Australia,Visakhapatnam,Iron Ore,24.83,Supramax,67988
+2025-06-08,South Africa,Visakhapatnam,Coal,22.21,Capesize,148495
+2025-06-09,South Africa,Visakhapatnam,Fertilizer,23.43,Panamax,139357
+2025-06-10,South Africa,Paradip,Fertilizer,21.15,Supramax,100964
+2025-06-11,Australia,Kolkata,Iron Ore,27.13,Panamax,105319
+2025-06-12,Indonesia,Kolkata,Coal,20.43,Supramax,91649
+2025-06-13,Australia,Haldia,Coal,24.78,Supramax,64183
+2025-06-14,South Africa,Visakhapatnam,Iron Ore,28.62,Supramax,91497
+2025-06-15,Indonesia,Kolkata,Coal,21.32,Capesize,137318
+2025-06-16,South Africa,Haldia,Coal,26.78,Supramax,70486
+2025-06-17,South Africa,Chennai,Coal,23.71,Capesize,84759
+2025-06-18,Indonesia,Chennai,Fertilizer,21.0,Panamax,148855
+2025-06-19,Indonesia,Haldia,Fertilizer,20.42,Capesize,57785
+2025-06-20,South Africa,Visakhapatnam,Fertilizer,22.54,Supramax,54038
+2025-06-21,Indonesia,Kolkata,Fertilizer,19.35,Capesize,140285
+2025-06-22,South Africa,Visakhapatnam,Iron Ore,24.27,Capesize,57099
+2025-06-23,Australia,Haldia,Iron Ore,24.66,Capesize,126389
+2025-06-24,Australia,Kolkata,Iron Ore,24.59,Supramax,118919
+2025-06-25,South Africa,Paradip,Fertilizer,27.08,Panamax,111386
+2025-06-26,Indonesia,Visakhapatnam,Iron Ore,17.48,Panamax,147467
+2025-06-27,South Africa,Visakhapatnam,Iron Ore,22.47,Supramax,74281
+2025-06-28,Australia,Chennai,Iron Ore,26.56,Panamax,106427
+2025-06-29,Indonesia,Chennai,Fertilizer,19.09,Supramax,121599
+2025-06-30,Australia,Haldia,Coal,24.95,Panamax,102851
+2025-07-01,South Africa,Kolkata,Coal,25.64,Panamax,87372
+2025-07-02,South Africa,Haldia,Coal,25.64,Panamax,126459
+2025-07-03,South Africa,Haldia,Iron Ore,26.29,Panamax,118926
+2025-07-04,South Africa,Visakhapatnam,Iron Ore,25.45,Panamax,121437
+2025-07-05,Indonesia,Haldia,Iron Ore,19.74,Panamax,130468
+2025-07-06,Australia,Visakhapatnam,Coal,25.54,Supramax,86318
+2025-07-07,Australia,Visakhapatnam,Fertilizer,24.85,Panamax,60886
+2025-07-08,South Africa,Kolkata,Iron Ore,27.39,Panamax,69302
+2025-07-09,South Africa,Visakhapatnam,Fertilizer,24.47,Panamax,138157
+2025-07-10,South Africa,Chennai,Iron Ore,24.55,Capesize,106875
+2025-07-11,Indonesia,Kolkata,Fertilizer,19.23,Panamax,120794
+2025-07-12,South Africa,Chennai,Fertilizer,27.48,Capesize,56659
+2025-07-13,South Africa,Paradip,Fertilizer,24.45,Supramax,136444
+2025-07-14,Indonesia,Chennai,Fertilizer,20.71,Supramax,97716
+2025-07-15,South Africa,Chennai,Iron Ore,26.98,Capesize,76829
+2025-07-16,Australia,Kolkata,Iron Ore,29.18,Supramax,95158
+2025-07-17,Indonesia,Paradip,Coal,17.08,Supramax,63651
+2025-07-18,South Africa,Kolkata,Fertilizer,26.06,Panamax,100353
+2025-07-19,Indonesia,Visakhapatnam,Fertilizer,18.67,Supramax,131505
+2025-07-20,Australia,Haldia,Iron Ore,25.31,Panamax,135756
+2025-07-21,South Africa,Paradip,Iron Ore,27.26,Supramax,60621
+2025-07-22,Indonesia,Kolkata,Fertilizer,19.61,Panamax,95032
+2025-07-23,Australia,Paradip,Fertilizer,24.97,Panamax,111649
+2025-07-24,South Africa,Chennai,Fertilizer,25.23,Panamax,84859
+2025-07-25,Australia,Chennai,Coal,24.82,Capesize,146251
+2025-07-26,Australia,Visakhapatnam,Coal,23.7,Supramax,66243
+2025-07-27,South Africa,Chennai,Iron Ore,25.35,Supramax,92238
+2025-07-28,Australia,Visakhapatnam,Coal,24.38,Capesize,59480
+2025-07-29,Indonesia,Kolkata,Fertilizer,21.73,Capesize,87447
+2025-07-30,South Africa,Visakhapatnam,Coal,24.97,Capesize,130078
+2025-07-31,Indonesia,Chennai,Fertilizer,17.99,Supramax,79857
+2025-08-01,South Africa,Kolkata,Iron Ore,23.07,Capesize,145134
+2025-08-02,Indonesia,Kolkata,Coal,20.19,Panamax,52929
+2025-08-03,Indonesia,Haldia,Iron Ore,18.73,Panamax,140171
+2025-08-04,South Africa,Visakhapatnam,Fertilizer,25.38,Supramax,118516
+2025-08-05,Indonesia,Paradip,Iron Ore,16.87,Capesize,73764
+2025-08-06,South Africa,Kolkata,Iron Ore,25.74,Capesize,136799
+2025-08-07,Australia,Haldia,Iron Ore,27.76,Panamax,109091
+2025-08-08,Indonesia,Haldia,Fertilizer,15.58,Capesize,74282
+2025-08-09,Indonesia,Paradip,Fertilizer,18.58,Supramax,94060
+2025-08-10,South Africa,Kolkata,Fertilizer,24.97,Capesize,125519
+2025-08-11,Indonesia,Chennai,Fertilizer,15.89,Panamax,76012
+2025-08-12,South Africa,Paradip,Iron Ore,26.93,Capesize,71282
+2025-08-13,South Africa,Kolkata,Iron Ore,25.4,Panamax,101372
+2025-08-14,Indonesia,Haldia,Coal,21.45,Panamax,137514
+2025-08-15,Australia,Visakhapatnam,Fertilizer,25.94,Capesize,53864
+2025-08-16,Indonesia,Paradip,Fertilizer,21.82,Capesize,81262
+2025-08-17,South Africa,Chennai,Coal,27.93,Panamax,130893
+2025-08-18,Indonesia,Haldia,Fertilizer,24.41,Capesize,126013
+2025-08-19,Indonesia,Kolkata,Coal,20.21,Panamax,127636
+2025-08-20,South Africa,Paradip,Coal,26.26,Panamax,105159
+2025-08-21,Indonesia,Chennai,Coal,24.81,Panamax,127430
+2025-08-22,Indonesia,Kolkata,Fertilizer,23.2,Capesize,61852
+2025-08-23,Australia,Visakhapatnam,Iron Ore,24.79,Supramax,63992
+2025-08-24,South Africa,Kolkata,Coal,24.81,Panamax,64186
+2025-08-25,Indonesia,Visakhapatnam,Iron Ore,19.61,Panamax,123650
+2025-08-26,Australia,Kolkata,Iron Ore,24.18,Capesize,112391
+2025-08-27,Australia,Chennai,Fertilizer,26.18,Supramax,79179
+2025-08-28,South Africa,Kolkata,Fertilizer,26.88,Capesize,119155
+2025-08-29,Australia,Haldia,Fertilizer,25.74,Supramax,127193
+2025-08-30,South Africa,Haldia,Coal,27.19,Panamax,141528
+2025-08-31,Indonesia,Chennai,Fertilizer,17.78,Capesize,85665
+2025-09-01,Indonesia,Paradip,Iron Ore,21.67,Supramax,98804
+2025-09-02,Indonesia,Chennai,Iron Ore,16.05,Supramax,60026
+2025-09-03,Australia,Chennai,Coal,25.41,Panamax,149356
+2025-09-04,Australia,Paradip,Coal,27.1,Capesize,103071
+2025-09-05,South Africa,Kolkata,Iron Ore,26.96,Panamax,51006
+2025-09-06,Indonesia,Kolkata,Iron Ore,20.4,Supramax,63588
+2025-09-07,Indonesia,Chennai,Coal,20.34,Capesize,127152
+2025-09-08,Australia,Haldia,Iron Ore,24.03,Supramax,59943
+2025-09-09,South Africa,Paradip,Iron Ore,28.07,Panamax,113106
+2025-09-10,South Africa,Haldia,Fertilizer,26.24,Capesize,94491
+2025-09-11,Australia,Haldia,Coal,23.02,Supramax,77979
+2025-09-12,South Africa,Kolkata,Iron Ore,24.92,Panamax,147630
+2025-09-13,Indonesia,Visakhapatnam,Iron Ore,16.83,Supramax,105446
+2025-09-14,Australia,Visakhapatnam,Coal,26.46,Panamax,82668
+2025-09-15,Indonesia,Kolkata,Iron Ore,22.23,Capesize,63399
+2025-09-16,Indonesia,Chennai,Coal,21.15,Panamax,82804
+2025-09-17,Indonesia,Paradip,Fertilizer,19.82,Panamax,77388
+2025-09-18,Indonesia,Paradip,Fertilizer,20.41,Capesize,107393
+2025-09-19,Australia,Kolkata,Fertilizer,24.22,Capesize,124281
+2025-09-20,Australia,Chennai,Coal,28.18,Panamax,115513
+2025-09-21,Indonesia,Chennai,Iron Ore,19.26,Supramax,86161
+2025-09-22,Indonesia,Kolkata,Fertilizer,19.14,Supramax,70259
+2025-09-23,South Africa,Visakhapatnam,Fertilizer,23.85,Capesize,102794
+2025-09-24,Australia,Haldia,Coal,26.67,Capesize,62163
+2025-09-25,Australia,Paradip,Fertilizer,26.16,Capesize,64071
+2025-09-26,Indonesia,Haldia,Fertilizer,18.89,Supramax,95774
+2025-09-27,Indonesia,Haldia,Fertilizer,20.77,Supramax,88225
+2025-09-28,South Africa,Kolkata,Fertilizer,26.33,Supramax,61630
+2025-09-29,Indonesia,Paradip,Coal,16.99,Capesize,78371
+2025-09-30,Indonesia,Kolkata,Coal,20.54,Capesize,129864
+2025-10-01,South Africa,Kolkata,Iron Ore,21.96,Panamax,105362
+2025-10-02,Indonesia,Paradip,Fertilizer,17.96,Supramax,92845
+2025-10-03,Australia,Chennai,Fertilizer,23.49,Capesize,132958
+2025-10-04,South Africa,Kolkata,Iron Ore,23.81,Panamax,83729
+2025-10-05,Indonesia,Haldia,Coal,17.82,Capesize,98425
+2025-10-06,South Africa,Kolkata,Fertilizer,28.54,Panamax,68966
+2025-10-07,Australia,Visakhapatnam,Coal,26.52,Panamax,78904
+2025-10-08,Indonesia,Visakhapatnam,Iron Ore,20.97,Capesize,53124
+2025-10-09,Australia,Haldia,Iron Ore,24.45,Capesize,119818
+2025-10-10,Indonesia,Paradip,Iron Ore,18.59,Panamax,136150
+2025-10-11,Australia,Haldia,Fertilizer,23.6,Capesize,91617
+2025-10-12,Indonesia,Kolkata,Iron Ore,20.03,Supramax,62920
+2025-10-13,South Africa,Kolkata,Fertilizer,22.53,Panamax,131689
+2025-10-14,Indonesia,Chennai,Iron Ore,24.29,Capesize,74235
+2025-10-15,Australia,Haldia,Fertilizer,23.9,Supramax,104016
+2025-10-16,South Africa,Haldia,Iron Ore,27.12,Capesize,146889
+2025-10-17,Australia,Kolkata,Iron Ore,24.64,Capesize,71908
+2025-10-18,South Africa,Paradip,Fertilizer,25.37,Supramax,76493
+2025-10-19,Australia,Chennai,Iron Ore,25.11,Capesize,147010
+2025-10-20,Australia,Paradip,Fertilizer,26.99,Panamax,123393
+2025-10-21,South Africa,Visakhapatnam,Coal,24.36,Capesize,84284
+2025-10-22,Indonesia,Kolkata,Iron Ore,19.81,Capesize,117157
+2025-10-23,South Africa,Visakhapatnam,Coal,25.83,Capesize,75245
+2025-10-24,Indonesia,Kolkata,Fertilizer,18.6,Panamax,121355
+2025-10-25,Australia,Kolkata,Iron Ore,24.12,Supramax,122152
+2025-10-26,Australia,Paradip,Fertilizer,25.93,Capesize,126256
+2025-10-27,Indonesia,Kolkata,Fertilizer,20.41,Supramax,59337
+2025-10-28,Indonesia,Chennai,Fertilizer,23.6,Capesize,145597
+2025-10-29,Australia,Kolkata,Coal,27.06,Panamax,75349
+2025-10-30,Australia,Haldia,Iron Ore,23.43,Panamax,62976
+2025-10-31,South Africa,Visakhapatnam,Fertilizer,24.48,Panamax,93221
+2025-11-01,South Africa,Chennai,Iron Ore,25.73,Supramax,69016
+2025-11-02,Australia,Kolkata,Iron Ore,28.13,Supramax,88336
+2025-11-03,Indonesia,Kolkata,Iron Ore,21.17,Supramax,73090
+2025-11-04,Indonesia,Chennai,Fertilizer,19.49,Panamax,100007
+2025-11-05,Australia,Chennai,Fertilizer,23.87,Capesize,124422
+2025-11-06,Australia,Paradip,Coal,24.19,Supramax,129346
+2025-11-07,South Africa,Paradip,Fertilizer,24.08,Supramax,63905
+2025-11-08,Indonesia,Chennai,Fertilizer,19.33,Capesize,94940
+2025-11-09,South Africa,Kolkata,Iron Ore,22.51,Capesize,135745
+2025-11-10,South Africa,Paradip,Coal,22.43,Capesize,117236
+2025-11-11,South Africa,Visakhapatnam,Fertilizer,24.75,Supramax,58889
+2025-11-12,South Africa,Haldia,Fertilizer,21.99,Capesize,69284
+2025-11-13,Australia,Paradip,Fertilizer,26.48,Supramax,63635
+2025-11-14,South Africa,Haldia,Coal,23.63,Capesize,56661
+2025-11-15,Indonesia,Visakhapatnam,Coal,19.89,Supramax,56991
+2025-11-16,Australia,Visakhapatnam,Iron Ore,22.38,Supramax,138278
+2025-11-17,Australia,Visakhapatnam,Iron Ore,28.67,Supramax,111132
+2025-11-18,Australia,Chennai,Coal,25.25,Supramax,119488
+2025-11-19,South Africa,Visakhapatnam,Coal,25.14,Supramax,109501
+2025-11-20,South Africa,Kolkata,Iron Ore,24.5,Supramax,138354
+2025-11-21,Australia,Chennai,Coal,24.13,Capesize,99313
+2025-11-22,Indonesia,Visakhapatnam,Iron Ore,18.74,Supramax,113877
+2025-11-23,Australia,Paradip,Coal,27.18,Capesize,115883
+2025-11-24,Indonesia,Chennai,Iron Ore,20.71,Panamax,127450
+2025-11-25,Australia,Visakhapatnam,Fertilizer,23.41,Supramax,134456
+2025-11-26,Indonesia,Visakhapatnam,Iron Ore,19.77,Panamax,100680
+2025-11-27,South Africa,Kolkata,Iron Ore,21.46,Capesize,65237
+2025-11-28,South Africa,Chennai,Coal,25.07,Capesize,74072
+2025-11-29,Australia,Chennai,Iron Ore,24.76,Supramax,143142
+2025-11-30,South Africa,Chennai,Coal,22.55,Panamax,99558
+2025-12-01,Indonesia,Chennai,Fertilizer,19.54,Capesize,64967
+2025-12-02,Australia,Haldia,Iron Ore,25.51,Panamax,83921
+2025-12-03,Australia,Chennai,Fertilizer,27.44,Panamax,130070
+2025-12-04,Australia,Chennai,Iron Ore,23.97,Capesize,72630
+2025-12-05,Indonesia,Kolkata,Iron Ore,21.13,Capesize,94547
+2025-12-06,Indonesia,Kolkata,Fertilizer,17.91,Panamax,75320
+2025-12-07,South Africa,Visakhapatnam,Fertilizer,25.07,Panamax,75671
+2025-12-08,Indonesia,Visakhapatnam,Iron Ore,21.09,Supramax,112717
+2025-12-09,Australia,Paradip,Fertilizer,22.81,Supramax,106835
+2025-12-10,South Africa,Visakhapatnam,Iron Ore,23.53,Supramax,64271
+2025-12-11,South Africa,Haldia,Iron Ore,26.3,Panamax,114641
+2025-12-12,South Africa,Kolkata,Coal,27.09,Panamax,75775
+2025-12-13,Australia,Chennai,Iron Ore,25.49,Capesize,115085
+2025-12-14,Australia,Chennai,Fertilizer,26.23,Panamax,80179
+2025-12-15,South Africa,Kolkata,Iron Ore,22.6,Capesize,59536
+2025-12-16,South Africa,Haldia,Coal,27.45,Supramax,57773
+2025-12-17,Australia,Paradip,Fertilizer,24.61,Capesize,87924
+2025-12-18,Indonesia,Chennai,Fertilizer,15.99,Panamax,63442
+2025-12-19,South Africa,Kolkata,Fertilizer,26.52,Supramax,68986
+2025-12-20,South Africa,Kolkata,Iron Ore,24.75,Capesize,67720
+2025-12-21,Indonesia,Visakhapatnam,Fertilizer,18.21,Supramax,134679
+2025-12-22,South Africa,Kolkata,Fertilizer,21.93,Panamax,69198
+2025-12-23,Australia,Paradip,Coal,24.97,Panamax,89362
+2025-12-24,Indonesia,Chennai,Fertilizer,21.01,Supramax,122462
+2025-12-25,Indonesia,Haldia,Fertilizer,19.96,Capesize,138432
+2025-12-26,Indonesia,Haldia,Coal,14.24,Panamax,99781
+2025-12-27,Indonesia,Visakhapatnam,Coal,19.7,Supramax,124316
+2025-12-28,South Africa,Visakhapatnam,Fertilizer,22.73,Capesize,75784
+2025-12-29,South Africa,Visakhapatnam,Iron Ore,24.42,Panamax,138216
+2025-12-30,Australia,Kolkata,Coal,24.85,Supramax,57419
+2025-12-31,Indonesia,Haldia,Coal,17.92,Supramax,103702
+2026-01-01,Australia,Visakhapatnam,Fertilizer,22.21,Supramax,100294
+2026-01-02,South Africa,Paradip,Iron Ore,24.42,Capesize,50196
+2026-01-03,Australia,Kolkata,Fertilizer,21.29,Panamax,142789
+2026-01-04,South Africa,Kolkata,Iron Ore,25.76,Supramax,146316
+2026-01-05,South Africa,Chennai,Fertilizer,26.66,Supramax,127494
+2026-01-06,Australia,Haldia,Coal,21.82,Panamax,117494
+2026-01-07,South Africa,Visakhapatnam,Iron Ore,24.36,Capesize,88631
+2026-01-08,Australia,Haldia,Iron Ore,24.56,Panamax,76372
+2026-01-09,Indonesia,Paradip,Fertilizer,22.81,Panamax,58521
+2026-01-10,Indonesia,Chennai,Iron Ore,17.25,Capesize,135816
+2026-01-11,Australia,Visakhapatnam,Coal,23.96,Capesize,127751
+2026-01-12,Australia,Visakhapatnam,Iron Ore,24.15,Supramax,92200
+2026-01-13,Indonesia,Kolkata,Iron Ore,19.78,Panamax,146038
+2026-01-14,Indonesia,Chennai,Fertilizer,19.8,Panamax,141326
+2026-01-15,Indonesia,Chennai,Iron Ore,19.89,Capesize,79764
+2026-01-16,Australia,Visakhapatnam,Iron Ore,25.66,Capesize,93818
+2026-01-17,Indonesia,Kolkata,Coal,22.69,Panamax,115910
+2026-01-18,Indonesia,Chennai,Fertilizer,20.93,Supramax,58056
+2026-01-19,South Africa,Visakhapatnam,Fertilizer,24.83,Capesize,117545
+2026-01-20,Australia,Paradip,Fertilizer,20.9,Capesize,101402
+2026-01-21,Australia,Kolkata,Coal,22.6,Supramax,108646
+2026-01-22,Indonesia,Chennai,Fertilizer,20.3,Supramax,130898
+2026-01-23,Australia,Paradip,Coal,22.99,Capesize,98430
+2026-01-24,Indonesia,Visakhapatnam,Fertilizer,20.95,Capesize,91843
+2026-01-25,Indonesia,Haldia,Coal,20.28,Panamax,146528
+2026-01-26,Indonesia,Visakhapatnam,Fertilizer,16.5,Capesize,101158
+2026-01-27,Australia,Chennai,Fertilizer,25.47,Panamax,126061
+2026-01-28,Australia,Paradip,Coal,25.66,Supramax,94125
+2026-01-29,Australia,Chennai,Iron Ore,24.65,Capesize,63642
+2026-01-30,South Africa,Kolkata,Iron Ore,26.07,Supramax,134709
+2026-01-31,Indonesia,Visakhapatnam,Fertilizer,20.69,Supramax,63823
+2026-02-01,Indonesia,Chennai,Coal,20.39,Panamax,148572
+2026-02-02,Australia,Visakhapatnam,Coal,25.39,Capesize,110249
+2026-02-03,South Africa,Visakhapatnam,Fertilizer,27.36,Supramax,147349
+2026-02-04,Indonesia,Kolkata,Coal,21.83,Capesize,55588
+2026-02-05,Indonesia,Kolkata,Coal,26.4,Panamax,100348
+2026-02-06,Indonesia,Haldia,Iron Ore,19.24,Panamax,140699
+2026-02-07,Australia,Kolkata,Iron Ore,27.64,Panamax,105665
+2026-02-08,Indonesia,Haldia,Iron Ore,16.3,Panamax,98282
+2026-02-09,Indonesia,Visakhapatnam,Iron Ore,17.51,Panamax,112766
+2026-02-10,Indonesia,Visakhapatnam,Iron Ore,21.36,Panamax,75265
+2026-02-11,Indonesia,Chennai,Coal,22.14,Supramax,130466
+2026-02-12,Australia,Paradip,Coal,21.48,Panamax,126266
+2026-02-13,Indonesia,Chennai,Coal,18.95,Capesize,56235
+2026-02-14,Indonesia,Chennai,Fertilizer,21.6,Panamax,105406
+2026-02-15,Indonesia,Kolkata,Fertilizer,18.86,Supramax,91788
+2026-02-16,Australia,Chennai,Iron Ore,24.81,Supramax,147730
+2026-02-17,Australia,Visakhapatnam,Iron Ore,21.0,Supramax,93550
+2026-02-18,Australia,Kolkata,Coal,24.61,Capesize,97419
+2026-02-19,Indonesia,Haldia,Iron Ore,19.82,Panamax,141443
+2026-02-20,South Africa,Chennai,Fertilizer,26.57,Capesize,78247
+2026-02-21,Australia,Visakhapatnam,Iron Ore,24.63,Supramax,80960
+2026-02-22,South Africa,Haldia,Iron Ore,26.28,Capesize,100083
+2026-02-23,South Africa,Visakhapatnam,Iron Ore,27.11,Supramax,66430
+2026-02-24,Australia,Visakhapatnam,Coal,23.99,Panamax,146908
+2026-02-25,Australia,Visakhapatnam,Fertilizer,25.83,Panamax,53050
+2026-02-26,Australia,Chennai,Fertilizer,20.59,Supramax,146421
+2026-02-27,Australia,Haldia,Iron Ore,26.36,Capesize,57757
+2026-02-28,Indonesia,Paradip,Iron Ore,16.99,Panamax,124235
+2026-03-01,South Africa,Visakhapatnam,Coal,23.95,Supramax,55759
+2026-03-02,South Africa,Paradip,Fertilizer,25.3,Panamax,104034
+2026-03-03,Australia,Chennai,Fertilizer,26.49,Panamax,91532
+2026-03-04,Indonesia,Kolkata,Coal,18.97,Supramax,142153
+2026-03-05,South Africa,Visakhapatnam,Coal,23.46,Panamax,98898
+2026-03-06,South Africa,Visakhapatnam,Coal,25.26,Panamax,72650
+2026-03-07,South Africa,Paradip,Coal,25.17,Capesize,117885
+2026-03-08,Australia,Chennai,Coal,22.54,Panamax,89477
+2026-03-09,Australia,Paradip,Coal,20.43,Supramax,93658
+2026-03-10,Indonesia,Visakhapatnam,Coal,20.76,Capesize,62927
+2026-03-11,South Africa,Paradip,Coal,26.07,Capesize,125256
+2026-03-12,South Africa,Paradip,Coal,25.37,Supramax,137579
+2026-03-13,Indonesia,Visakhapatnam,Coal,18.3,Supramax,51793
+2026-03-14,Indonesia,Paradip,Coal,21.23,Capesize,148324
+2026-03-15,South Africa,Visakhapatnam,Fertilizer,27.24,Panamax,63721
+2026-03-16,Indonesia,Paradip,Coal,20.76,Supramax,51262
+2026-03-17,Australia,Haldia,Iron Ore,24.13,Panamax,86692
+2026-03-18,Indonesia,Haldia,Iron Ore,19.44,Capesize,104859
+2026-03-19,Indonesia,Paradip,Coal,16.08,Supramax,129613
+2026-03-20,South Africa,Chennai,Coal,26.79,Supramax,103087
+2026-03-21,South Africa,Visakhapatnam,Fertilizer,22.56,Panamax,126180
+2026-03-22,South Africa,Visakhapatnam,Coal,26.33,Supramax,66191
+2026-03-23,Indonesia,Paradip,Coal,21.44,Supramax,71320
+2026-03-24,Indonesia,Chennai,Coal,19.25,Panamax,75441
+2026-03-25,Australia,Visakhapatnam,Coal,25.29,Supramax,88006
+2026-03-26,Indonesia,Paradip,Fertilizer,20.46,Capesize,60555
+2026-03-27,South Africa,Chennai,Fertilizer,27.14,Capesize,85712
+2026-03-28,South Africa,Chennai,Fertilizer,23.42,Capesize,53297
+2026-03-29,South Africa,Paradip,Fertilizer,25.41,Supramax,60201
+2026-03-30,Indonesia,Haldia,Iron Ore,21.52,Supramax,123864
+2026-03-31,Australia,Chennai,Iron Ore,22.32,Capesize,81174
+2026-04-01,Australia,Visakhapatnam,Iron Ore,23.96,Panamax,110062
+2026-04-02,Indonesia,Chennai,Coal,19.64,Capesize,69371
+2026-04-03,Australia,Kolkata,Iron Ore,21.84,Capesize,137781
+2026-04-04,Australia,Visakhapatnam,Fertilizer,24.46,Supramax,138568
+2026-04-05,Indonesia,Kolkata,Iron Ore,22.78,Capesize,98740
+2026-04-06,South Africa,Visakhapatnam,Iron Ore,23.76,Capesize,103817
+2026-04-07,Indonesia,Haldia,Coal,21.59,Supramax,125076
+2026-04-08,Indonesia,Paradip,Coal,20.38,Capesize,65708
+2026-04-09,South Africa,Chennai,Iron Ore,22.38,Panamax,149228
+2026-04-10,Indonesia,Chennai,Coal,21.72,Capesize,124898
+2026-04-11,South Africa,Haldia,Coal,26.5,Panamax,118287
+2026-04-12,South Africa,Kolkata,Iron Ore,23.14,Capesize,54433
+2026-04-13,Indonesia,Kolkata,Fertilizer,18.92,Capesize,91224
+2026-04-14,Indonesia,Chennai,Iron Ore,20.4,Capesize,136082
+2026-04-15,Indonesia,Chennai,Fertilizer,21.11,Panamax,116166
+2026-04-16,Indonesia,Kolkata,Coal,19.48,Capesize,56033
+2026-04-17,South Africa,Chennai,Coal,24.4,Supramax,139344
+2026-04-18,Australia,Haldia,Coal,30.77,Capesize,128767
+2026-04-19,South Africa,Haldia,Fertilizer,22.74,Panamax,120070
+2026-04-20,South Africa,Visakhapatnam,Fertilizer,27.14,Panamax,59210
+2026-04-21,Indonesia,Paradip,Coal,22.08,Supramax,52487
+2026-04-22,Australia,Haldia,Fertilizer,21.95,Panamax,134020
+2026-04-23,Australia,Chennai,Iron Ore,26.73,Capesize,54739
+2026-04-24,Australia,Visakhapatnam,Iron Ore,23.38,Capesize,145784
+2026-04-25,South Africa,Chennai,Fertilizer,25.59,Panamax,109081
+2026-04-26,Australia,Paradip,Iron Ore,22.62,Panamax,119170
+2026-04-27,Australia,Haldia,Fertilizer,25.89,Capesize,108548
+2026-04-28,Indonesia,Paradip,Fertilizer,17.81,Capesize,135741
+2026-04-29,Australia,Paradip,Fertilizer,24.95,Capesize,146082
+2026-04-30,Australia,Paradip,Fertilizer,23.76,Capesize,92484
+2026-05-01,Indonesia,Visakhapatnam,Fertilizer,17.02,Capesize,103258
+2026-05-02,South Africa,Paradip,Coal,23.22,Panamax,109615
+2026-05-03,South Africa,Paradip,Coal,22.63,Panamax,84552
+2026-05-04,Australia,Paradip,Fertilizer,23.82,Panamax,59313
+2026-05-05,South Africa,Paradip,Iron Ore,27.23,Panamax,91306
+2026-05-06,Indonesia,Paradip,Iron Ore,18.81,Supramax,141395
+2026-05-07,Indonesia,Haldia,Iron Ore,23.22,Supramax,144738
+2026-05-08,South Africa,Haldia,Coal,22.39,Capesize,89930
+2026-05-09,Australia,Paradip,Fertilizer,25.35,Supramax,70713
+2026-05-10,Indonesia,Paradip,Iron Ore,16.68,Panamax,90674
+2026-05-11,Australia,Haldia,Fertilizer,22.53,Capesize,149575
+2026-05-12,South Africa,Paradip,Fertilizer,24.26,Capesize,137731
+2026-05-13,Australia,Kolkata,Iron Ore,23.1,Panamax,119864
+2026-05-14,Australia,Kolkata,Fertilizer,25.58,Capesize,131725
+2026-05-15,Australia,Visakhapatnam,Fertilizer,23.49,Supramax,69868
+2026-05-16,Indonesia,Chennai,Fertilizer,20.9,Panamax,112744
+2026-05-17,South Africa,Paradip,Fertilizer,23.74,Panamax,140962
+2026-05-18,Indonesia,Chennai,Coal,19.84,Panamax,130098
+2026-05-19,Australia,Chennai,Coal,28.57,Supramax,146466
+2026-05-20,South Africa,Haldia,Coal,26.27,Capesize,123200
+2026-05-21,South Africa,Chennai,Fertilizer,27.23,Panamax,67167
+2026-05-22,Indonesia,Haldia,Coal,20.67,Supramax,132744
+2026-05-23,Australia,Visakhapatnam,Fertilizer,26.39,Supramax,112204
+2026-05-24,Australia,Haldia,Fertilizer,24.44,Panamax,130249
+2026-05-25,South Africa,Paradip,Iron Ore,25.87,Panamax,104054
+2026-05-26,South Africa,Visakhapatnam,Iron Ore,25.36,Supramax,137383
+2026-05-27,Australia,Paradip,Iron Ore,26.37,Supramax,79505
+2026-05-28,Indonesia,Kolkata,Fertilizer,23.42,Supramax,102059
+2026-05-29,South Africa,Chennai,Iron Ore,25.06,Capesize,52253
+2026-05-30,Indonesia,Kolkata,Fertilizer,19.69,Supramax,73996
+2026-05-31,South Africa,Paradip,Fertilizer,25.13,Supramax,127080
+2026-06-01,Indonesia,Kolkata,Coal,19.81,Supramax,120061
+2026-06-02,Australia,Visakhapatnam,Fertilizer,25.91,Supramax,144539
+2026-06-03,South Africa,Kolkata,Fertilizer,22.52,Supramax,148591
+2026-06-04,Australia,Kolkata,Coal,22.12,Panamax,50244
+2026-06-05,South Africa,Visakhapatnam,Coal,24.05,Supramax,146258
+2026-06-06,Australia,Visakhapatnam,Iron Ore,24.34,Supramax,114752
+2026-06-07,Indonesia,Haldia,Iron Ore,23.12,Supramax,104497
+2026-06-08,South Africa,Chennai,Fertilizer,24.99,Capesize,93517
+2026-06-09,Indonesia,Paradip,Fertilizer,18.21,Capesize,141543
+2026-06-10,South Africa,Paradip,Coal,27.12,Panamax,149854
+2026-06-11,Australia,Chennai,Coal,26.0,Supramax,79013
+2026-06-12,Indonesia,Haldia,Fertilizer,21.73,Supramax,60935
+2026-06-13,South Africa,Haldia,Coal,25.31,Panamax,110942
+2026-06-14,South Africa,Visakhapatnam,Fertilizer,24.12,Panamax,135485
+2026-06-15,Indonesia,Visakhapatnam,Coal,20.43,Supramax,74885
+2026-06-16,Australia,Visakhapatnam,Coal,25.23,Panamax,79970
+2026-06-17,South Africa,Visakhapatnam,Coal,26.2,Panamax,112606
+2026-06-18,Australia,Visakhapatnam,Iron Ore,24.68,Panamax,53338
+2026-06-19,Indonesia,Chennai,Coal,19.71,Supramax,142423
+2026-06-20,Australia,Visakhapatnam,Fertilizer,23.38,Capesize,94218
+2026-06-21,Australia,Haldia,Iron Ore,25.36,Capesize,53697
+2026-06-22,Australia,Visakhapatnam,Iron Ore,24.81,Panamax,68723
+2026-06-23,South Africa,Visakhapatnam,Fertilizer,28.42,Capesize,80036
+2026-06-24,Indonesia,Chennai,Fertilizer,16.82,Panamax,54663
+2026-06-25,South Africa,Kolkata,Iron Ore,24.15,Supramax,92657
+2026-06-26,Australia,Kolkata,Iron Ore,27.15,Panamax,53548
+2026-06-27,Indonesia,Kolkata,Fertilizer,18.53,Capesize,73875
+2026-06-28,Australia,Kolkata,Fertilizer,25.81,Supramax,139867
+2026-06-29,Indonesia,Haldia,Iron Ore,19.36,Supramax,84658
+2026-06-30,South Africa,Visakhapatnam,Fertilizer,27.41,Panamax,53940
+2026-07-01,South Africa,Haldia,Coal,25.75,Capesize,128210
+2026-07-02,Indonesia,Visakhapatnam,Iron Ore,17.95,Panamax,93962
+2026-07-03,Australia,Chennai,Fertilizer,25.6,Capesize,50020
+2026-07-04,South Africa,Paradip,Iron Ore,21.36,Panamax,135141
+2026-07-05,South Africa,Visakhapatnam,Coal,26.88,Panamax,116436
+2026-07-06,South Africa,Paradip,Iron Ore,26.91,Panamax,58278
+2026-07-07,Australia,Chennai,Iron Ore,23.3,Capesize,73202
+2026-07-08,Australia,Kolkata,Iron Ore,25.37,Capesize,144604
+2026-07-09,Indonesia,Haldia,Iron Ore,21.76,Supramax,85020
+2026-07-10,Australia,Visakhapatnam,Fertilizer,24.92,Capesize,54941
+2026-07-11,Australia,Visakhapatnam,Coal,27.7,Supramax,77542
+2026-07-12,South Africa,Paradip,Coal,26.15,Panamax,89504
+2026-07-13,Australia,Chennai,Iron Ore,26.76,Panamax,58628
+2026-07-14,South Africa,Kolkata,Iron Ore,23.83,Capesize,118077
+2026-07-15,Australia,Paradip,Coal,24.06,Supramax,104563
+2026-07-16,South Africa,Visakhapatnam,Coal,22.8,Supramax,105697
+2026-07-17,Indonesia,Chennai,Iron Ore,21.67,Capesize,105471
+2026-07-18,Indonesia,Haldia,Iron Ore,20.91,Supramax,62669
+2026-07-19,Australia,Visakhapatnam,Fertilizer,26.81,Capesize,84826
+2026-07-20,Indonesia,Kolkata,Iron Ore,21.14,Capesize,96755
+2026-07-21,South Africa,Chennai,Fertilizer,25.0,Supramax,64675
+2026-07-22,Indonesia,Haldia,Fertilizer,19.14,Panamax,131302
+2026-07-23,South Africa,Kolkata,Coal,27.58,Capesize,126671
+2026-07-24,Australia,Paradip,Iron Ore,26.09,Panamax,146755
+2026-07-25,Australia,Paradip,Iron Ore,27.38,Capesize,112626
+2026-07-26,Indonesia,Paradip,Fertilizer,20.52,Panamax,122978
+2026-07-27,South Africa,Paradip,Iron Ore,24.02,Panamax,93478
+2026-07-28,Indonesia,Visakhapatnam,Iron Ore,23.04,Supramax,96151
+2026-07-29,South Africa,Visakhapatnam,Coal,24.76,Panamax,61748
+2026-07-30,South Africa,Paradip,Coal,24.3,Capesize,74023
+2026-07-31,Australia,Kolkata,Fertilizer,24.62,Panamax,140386
+2026-08-01,Australia,Kolkata,Iron Ore,25.29,Supramax,63349
+2026-08-02,Australia,Visakhapatnam,Fertilizer,25.83,Supramax,69634
+2026-08-03,South Africa,Visakhapatnam,Fertilizer,26.52,Panamax,114242
+2026-08-04,Indonesia,Visakhapatnam,Iron Ore,19.61,Supramax,126375
+2026-08-05,Indonesia,Visakhapatnam,Iron Ore,21.49,Panamax,76128
+2026-08-06,Indonesia,Haldia,Coal,20.04,Panamax,124034
+2026-08-07,Australia,Visakhapatnam,Fertilizer,26.38,Supramax,144863
+2026-08-08,South Africa,Chennai,Coal,27.55,Panamax,134659
+2026-08-09,Australia,Visakhapatnam,Fertilizer,27.3,Supramax,58392
+2026-08-10,South Africa,Paradip,Coal,25.76,Supramax,71585
+2026-08-11,South Africa,Kolkata,Fertilizer,25.16,Supramax,144373
+2026-08-12,Australia,Paradip,Fertilizer,24.27,Supramax,88829
+2026-08-13,Indonesia,Kolkata,Iron Ore,17.53,Capesize,94992
+2026-08-14,Indonesia,Visakhapatnam,Iron Ore,21.85,Capesize,128735
+2026-08-15,Indonesia,Paradip,Fertilizer,20.02,Panamax,67343
+2026-08-16,Indonesia,Visakhapatnam,Iron Ore,19.48,Supramax,127529
+2026-08-17,South Africa,Chennai,Coal,25.43,Capesize,66375
+2026-08-18,Australia,Chennai,Fertilizer,22.11,Panamax,148724
+2026-08-19,South Africa,Haldia,Coal,21.36,Panamax,53447
+2026-08-20,Australia,Haldia,Coal,18.86,Supramax,139413
+2026-08-21,South Africa,Visakhapatnam,Coal,28.11,Panamax,131837
+2026-08-22,Australia,Chennai,Fertilizer,21.51,Panamax,63654
+2026-08-23,Australia,Chennai,Fertilizer,23.21,Supramax,127969
+2026-08-24,Indonesia,Chennai,Fertilizer,20.75,Panamax,58704
+2026-08-25,Australia,Chennai,Fertilizer,28.06,Panamax,114365
+2026-08-26,South Africa,Paradip,Fertilizer,22.04,Supramax,132607
+2026-08-27,South Africa,Paradip,Coal,21.24,Capesize,73154
+2026-08-28,South Africa,Paradip,Coal,28.19,Supramax,50874
+2026-08-29,South Africa,Chennai,Fertilizer,25.78,Capesize,136133
+2026-08-30,Indonesia,Haldia,Fertilizer,22.98,Panamax,50143
+2026-08-31,Australia,Visakhapatnam,Fertilizer,23.93,Capesize,98517
+2026-09-01,Indonesia,Visakhapatnam,Coal,20.65,Panamax,138685
